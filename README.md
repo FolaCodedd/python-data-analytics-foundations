@@ -7,7 +7,7 @@ A collection of Python/Jupyter notebooks completed as part of coursework in data
 
 ## 📁 Notebooks
 
-### Assignment 1 — Data Wrangling & Matrix Operations (`PROG50141`)
+### `01_data_wrangling_numpy_pandas.ipynb` — Data Wrangling & Matrix Operations (`PROG50141`)
 **Dataset:** Sales CSV (Kaggle)
 
 Covers the fundamentals of working with structured data in Python:
@@ -20,7 +20,7 @@ Covers the fundamentals of working with structured data in Python:
 
 ---
 
-### Assignment 2 — EDA, Visualisation & Sampling (`STAT53894`)
+### `02_eda_visualisation_world_happiness.ipynb` — EDA, Visualisation & Sampling (`STAT53894`)
 **Dataset:** World Happiness Report 2025 (`WHR25_Data_Figure_2.1v3.xlsx`)
 
 End-to-end exploratory data analysis pipeline on global happiness data:
@@ -36,7 +36,7 @@ End-to-end exploratory data analysis pipeline on global happiness data:
 
 ---
 
-### Assignment 3 — Hypothesis Testing (`STAT53894`)
+### `03_hypothesis_testing_tips_dataset.ipynb` — Hypothesis Testing (`STAT53894`)
 **Dataset:** `tips` (Seaborn built-in)
 
 Applied the full 6-step hypothesis testing process across three statistical tests:
